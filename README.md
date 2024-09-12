@@ -37,8 +37,9 @@ The joystick is designed with modular components, enabling the user to upgrade a
   <img src="Content-images-vids-gifs/screenshot-yaw-axis-2.png" alt="Yaw axis control mechanism 2" width="300" height="auto" style="margin: 5px;">
   <img src="Content-images-vids-gifs/screenshot-yaw-axis-3.png" alt="Yaw axis control mechanism 3" width="300" height="auto" style="margin: 5px;">
   <img src="Content-images-vids-gifs/real-yaw-axis.png" alt="Yaw axis control mechanism 4" width="500" height="auto" style="margin: 5px;">
-  <img src="Content-images-vids-gifs/hiw-yaw-axis.gif" alt="Yaw Axis Mechanism in Action" width="500" height="auto" style="margin: 5px;">
 </div>
+
+https://github.com/user-attachments/assets/854c9359-2639-46c5-a01e-5ee879bcc2ad
 
 ### Gimbal mechanism:
 <div style="display: flex; flex-wrap: wrap;">
@@ -51,8 +52,10 @@ The joystick is designed with modular components, enabling the user to upgrade a
 <div style="display: flex; flex-wrap: wrap;">
   <img src="Content-images-vids-gifs/screenshot-lead-screw-1.png" alt="Lead screw 1" width="400" height="auto" style="margin: 5px;">
   <img src="Content-images-vids-gifs/screenshot-lead-screw-2.png" alt="Lead screw 2" width="400" height="auto" style="margin: 5px;">
-  <img src="Content-images-vids-gifs/hiw-lead-screw.gif" alt="Lead screw in Action" width="300" height="auto" style="margin: 5px;">
+  <img src="Content-images-vids-gifs/hiw-lead-screw.mp4" alt="Lead screw in Action" width="300" height="auto" style="margin: 5px;">
 </div>
+
+https://github.com/user-attachments/assets/b9fb7c01-0029-4c2b-8127-56d2c9f7c5b1
 
 ### PCB design:
 <div style="display: flex; flex-wrap: wrap;">
@@ -61,10 +64,7 @@ The joystick is designed with modular components, enabling the user to upgrade a
 </div>
 
 ### Testing process on War Thunder game:
-<div style="display: flex; flex-wrap: wrap; gap: 10px;">
-  <video width="400" controls>
-    <source src="Content-images-vids-gifs/test-stick.mp4" type="video/mp4">
-    Your browser does not support the video tag.
-  </video>
-</div>
 
+[Download the video](Content-images-vids-gifs/test-stick.mp4)
+
+This video is inside the "Content-images-vids-gifs/test-stick.mp4".
